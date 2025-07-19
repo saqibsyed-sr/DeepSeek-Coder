@@ -1,3 +1,5 @@
+![sr-logo-letter-design-vector](https://github.com/user-attachments/assets/95524926-4960-4f9f-a4d0-739309f069b4)
+![sr-logo-letter-design-vector](https://github.com/user-attachments/assets/fcc6a0f7-8e47-491b-b76b-c216861da0ff)
 <p align="center">
 <img width="1000px" alt="DeepSeek Coder" src="pictures/logo.png">
 </p>
